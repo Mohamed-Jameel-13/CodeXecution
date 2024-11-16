@@ -1,7 +1,7 @@
 ## Deployment
 
 The project is deployed and can be accessed at the following link:
-[Online HTML/CSS/JavaScript Compiler](https://mohamed-jameel-13.github.io/Online-HTML-CSS-Javascript-Compiler/)
+[CodeXecution](https://mohamed-jameel-13.github.io/Online-HTML-CSS-Javascript-Compiler/)
 
 
 # CodeXecution
