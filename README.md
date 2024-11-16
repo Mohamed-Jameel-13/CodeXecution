@@ -4,7 +4,7 @@ The project is deployed and can be accessed at the following link:
 [Online HTML/CSS/JavaScript Compiler](https://mohamed-jameel-13.github.io/Online-HTML-CSS-Javascript-Compiler/)
 
 
-# Online HTML/CSS/JavaScript Compiler
+# CodeXecution
 [![Tech Stack](https://img.shields.io/badge/Tech%20Stack-HTML%2FCSS%2FJavaScript-blue)](https://shields.io/)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)](https://shields.io/)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](https://shields.io/)
@@ -55,12 +55,12 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohamed-Jameel-13/Online-HTML-CSS-Javascript-Compiler.git
+   git clone https://github.com/Mohamed-Jameel-13/CodeXecution.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd Online-HTML-CSS-Javascript-Compiler
+   cd CodeXecution
    ```
 
 3. Install the dependencies:
